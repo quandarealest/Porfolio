@@ -23,6 +23,9 @@ const Footer = () => {
           <LinkItem href="mailto:buiquan2710@gmail.com">
             buiquan2710@gmail.com
           </LinkItem>
+          <LinkItem href="mailto:contact@quanbuikm.com">
+            contact@quanbuikm.com
+          </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
@@ -32,13 +35,13 @@ const Footer = () => {
           </Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/quandarealest">
             <AiFillGithub size='3rem' />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://linkedin.com/in/quanbkm">
             <AiFillLinkedin size='3rem' />
           </SocialIcons>
-          <SocialIcons href="https://instagram.com">
+          <SocialIcons href="https://instagram.com/notquanbui">
             <AiFillInstagram size='3rem' />
           </SocialIcons>
         </SocialContainer>

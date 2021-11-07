@@ -33,14 +33,14 @@ const Projects = () => (
               ))}
             </TagList>
           </div>
-          <UtilityList>
+          {/* <UtilityList>
             <ExternalLinks href={project.visit}>
               Code
             </ExternalLinks>
             <ExternalLinks href={project.source}>
               Source
             </ExternalLinks>
-          </UtilityList>
+          </UtilityList> */}
         </BlogCard>
       ))}
     </GridContainer>

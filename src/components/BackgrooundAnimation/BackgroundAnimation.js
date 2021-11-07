@@ -1,7 +1,9 @@
 import React from 'react';
+import { PortImg } from '../../styles/GlobalComponents';
 
 const BackgroundAnimation = () => (
-  <div>
+  <div style={{ position: 'relative' }}>
+    <PortImg src='/images/portfolio.png' />
     <svg
       className="BgAnimation__svg"
       viewBox="0 0 602 602"

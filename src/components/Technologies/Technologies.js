@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact, DiZend, DiCode } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -22,11 +22,17 @@ const Technologies = () => (
           <ListParagraph>
             Experienced with
             <br />
+            Javascript
+            <br />
             React.js
             <br />
             Redux
             <br />
             Saga
+            <br />
+            Ant Design
+            <br />
+            MeteorJS
             <br />
           </ListParagraph>
         </ListContainer>
@@ -43,11 +49,12 @@ const Technologies = () => (
             Node.js
             <br />
             MongoDB
+            <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="3rem" />
+        <DiCode size="3rem" />
         <ListContainer>
           <ListTitle>
             Tools

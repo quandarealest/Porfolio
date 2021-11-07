@@ -15,7 +15,7 @@ const Hero = (props) => (
         Web developer full time 💻, Chelsea die-hard fan part time ⚽
       </SectionText>
       <Button onClick={() => {
-        window.location = 'https://google.com'
+        window.location = 'https://www.linkedin.com/in/quanbkm/'
       }}>Let's grab a coffee</Button>
     </LeftSection>
   </Section>
