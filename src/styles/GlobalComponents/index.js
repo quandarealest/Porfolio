@@ -28,10 +28,9 @@ export const PortImg = styled.img`
   position: absolute;
   right: 0;
   left: 0;
-  width: 450px;
+  width: 480px;
   margin-right: auto;
   margin-left: auto;
-  top: 52px;
 `;
 
 export const SectionTitle = styled.h2`

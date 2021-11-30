@@ -3,7 +3,7 @@ import { PortImg } from '../../styles/GlobalComponents';
 
 const BackgroundAnimation = () => (
   <div style={{ position: 'relative' }}>
-    <PortImg src='/images/portfolio.png' />
+    <PortImg src='/images/Blob-1.png' />
     <svg
       className="BgAnimation__svg"
       viewBox="0 0 602 602"
