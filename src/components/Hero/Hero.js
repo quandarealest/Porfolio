@@ -9,7 +9,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Hi there, <br />
-          This is Quan Bui
+          this is Quan Bui
       </SectionTitle>
       <SectionText>
         Web developer full time 💻, Chelsea die-hard fan part time ⚽
