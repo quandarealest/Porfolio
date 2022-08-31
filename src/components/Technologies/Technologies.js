@@ -10,7 +10,7 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world. From Front-end to Design.
+      I've worked with a range of technologies in the web development world. From Front-end to Backend, Database and Design.
     </SectionText>
     <List>
       <ListItem>
@@ -22,17 +22,17 @@ const Technologies = () => (
           <ListParagraph>
             Experienced with
             <br />
-            Javascript
+            Javascript, HTML, CSS
             <br />
             React.js
             <br />
             Redux
             <br />
-            Saga
+            Redux-Saga/Redux Toolkit
             <br />
-            Ant Design
+            Ant Design/Material UI/Bootstrap
             <br />
-            MeteorJS
+            Meteor.js
             <br />
           </ListParagraph>
         </ListContainer>
@@ -48,7 +48,13 @@ const Technologies = () => (
             <br />
             Node.js
             <br />
+            Express.js
+            <br />
             MongoDB
+            <br />
+            MySQL
+            <br />
+            SQL/NoSQL
             <br />
           </ListParagraph>
         </ListContainer>
@@ -66,7 +72,13 @@ const Technologies = () => (
             <br />
             Git
             <br />
-            Figma
+            Figma/Zeplin
+            <br />
+            Mongo Atlas/Mongo Compass
+            <br />
+            MSSQL Server
+            <br />
+            Postman
             <br />
           </ListParagraph>
         </ListContainer>

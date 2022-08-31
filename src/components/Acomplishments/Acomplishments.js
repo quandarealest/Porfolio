@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 7, text: 'IELTS band issued by Cambridge' },
-  { number: 2, text: 'Years of experience', },
+  { number: 6, text: 'Years of experience', },
 ];
 
 const Acomplishments = () => (

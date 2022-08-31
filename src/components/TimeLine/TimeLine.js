@@ -48,7 +48,7 @@ const Timeline = () => {
         About Me
       </SectionTitle>
       <SectionText>
-        Diligent software engineer with 2+ years experience in out-sourcing development. Working in a modern and advanced environment like Canada is my dream in the next 3 years. Hard-working, responsible, and studious are some of the characteristics I have been recognized by my superiors and colleagues.
+        Diligent software engineer with 6 years in the industry (2+ years experience in the out-sourcing field). Working in a modern, multi-cultural and advanced environment like Canada is my goal for the next 5 years. My superiors and coworkers have noted that I am diligent, responsible, and studious among other qualities.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

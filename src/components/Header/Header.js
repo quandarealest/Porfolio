@@ -48,7 +48,7 @@ const Header = () => (
       <SocialIcons href="https://linkedin.com/in/quanbkm">
         <AiFillLinkedin size='3rem' />
       </SocialIcons>
-      <SocialIcons href="https://instagram.com/notquanbui">
+      <SocialIcons href="https://www.figma.com/@quanb">
         <AiFillInstagram size='3rem' />
       </SocialIcons>
     </Div3>

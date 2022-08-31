@@ -5,7 +5,7 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 
 const Projects = () => (
-  <Section nopadding id="projects">
+  <Section id="projects">
     <SectionDivider />
     <SectionTitle main>
       Projects
@@ -33,14 +33,13 @@ const Projects = () => (
               ))}
             </TagList>
           </div>
-          {/* <UtilityList>
-            <ExternalLinks href={project.visit}>
-              Code
+          {project.link && (
+            <UtilityList>
+              <ExternalLinks href={project.link}>
+                Source
             </ExternalLinks>
-            <ExternalLinks href={project.source}>
-              Source
-            </ExternalLinks>
-          </UtilityList> */}
+            </UtilityList>
+          )}
         </BlogCard>
       ))}
     </GridContainer>
